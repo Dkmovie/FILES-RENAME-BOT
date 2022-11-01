@@ -16,6 +16,7 @@ async def delete_caption(client, message):
     if not caption:
        return await message.reply_text("__**😔 𝚈𝙾𝚄 𝙳𝙾𝙽𝚃 𝙷𝙰𝚅𝙴 𝙰𝙽𝚈 𝙲𝙰𝙿𝚃𝙸𝙾𝙽**__")
     await db.set_caption(message.from_user.id, caption=None)
+    reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='youtube.com/OpusTechz') ] ] ),
     await message.reply_text("__**❌️ 𝚈𝙾𝚄𝚁 𝙲𝙰𝙿𝚃𝙸𝙾𝙽 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙳𝙴𝙻𝙴𝚃𝙴𝙳**__")
                                        
 @Client.on_message(filters.private & filters.command('see_caption'))
