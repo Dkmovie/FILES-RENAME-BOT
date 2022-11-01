@@ -43,7 +43,7 @@ class Database:
 
     async def set_caption(self, id, caption):
         await self.col.update_one({'_id': int(id)}, {'$set': {'caption': caption}})
-      reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='youtube.com/OpusTechz') ] ] ),
+
     async def get_caption(self, id):
         user = await self.col.find_one({'_id': int(id)})
         return user.get('caption', None)
