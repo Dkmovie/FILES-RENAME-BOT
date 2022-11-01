@@ -27,4 +27,5 @@ async def refunc(client, message):
        await message.reply_text(
           f"**Select the output file type**\n**• File Name :-**```{new_name}```",
           reply_to_message_id=file.id,
+          reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='youtube.com/OpusTechz') ] ] ),
           reply_markup=InlineKeyboardMarkup(button))
