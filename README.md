@@ -1,12 +1,6 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-#  𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓
 
 
-<p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-PYRO-BOTZ&repo=PYRO-RENAME-BOT&theme=dark)
 
 
 ### SAME BOT (official pyro rename bot)
@@ -20,7 +14,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Dkmovie/PYRO-RENAME-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/Dkmovie/FILES--RENAME-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -68,16 +62,16 @@ broadcast - admin only
 
 ## ❣️Thanks to
 
-<a href="https://t.me/lntechnical">
-   <p> lntechnical TG</p>
+<a href="https://t.me/DK_Gru">
+   <p> Dkmovie TG</p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> lntechnical YT </p>
+<a href="">
+   <p> l</p>
   </a>
 
 ## 🤩 INSPIRATION
 
-<a href="https://youtube.com/c/MoTech_YT">
+<a href="https://youtube.com/c">
    <p>❣️ MoTech 🔥</p>
   </a>
 
