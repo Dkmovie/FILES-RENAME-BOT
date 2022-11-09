@@ -70,7 +70,7 @@ Example:- /set_caption 📕 File Name: {filename}
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/Dkmovie/FILES--RENAME-BOT>𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
+» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/Dkmovie/FILES-RENAME-BOT>𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
 » CHANNEL : <a href=https://t.me/DK_Gru>DK_Movie</a>
 
 • ❣️ <a href=https://github.com/lntechnical2>𝗟𝗡 𝗧𝗘𝗖𝗛𝗡𝗜𝗖</a>
